@@ -2,7 +2,7 @@
 
 require_once "User.php";
 
-use PHPUnit\Framewok\TestCase;
+use PHPUnit\Framework\TestCase;
 
 class UserTest extends TestCase {
 

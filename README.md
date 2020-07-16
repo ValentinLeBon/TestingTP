@@ -1,7 +1,7 @@
 # TestingTP
 
-Création image
+#Création image
 docker build -t phpunit .
 
-Lancement de test
+#Lancement de test
 docker run phpunit NomDeLaClasse
