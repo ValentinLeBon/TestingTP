@@ -4,7 +4,7 @@ require_once "User.php";
 
 use PHPUnit\Framewok\TestCase;
 
-Class UserTest extends TestCase {
+class UserTest extends TestCase {
 
     private $validTest;
     private $invalidTest;
